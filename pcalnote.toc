@@ -1,0 +1,34 @@
+\contentsline {section}{\numberline {1}Design}{3}
+\contentsline {subsection}{\numberline {1.1}Overlapping Shapes}{5}
+\contentsline {section}{\numberline {2}Various Cuts}{6}
+\contentsline {subsection}{\numberline {2.1}Multiplicity Cut}{6}
+\contentsline {subsection}{\numberline {2.2}Dalitz Cut}{6}
+\contentsline {subsection}{\numberline {2.3}Unphysical Events}{7}
+\contentsline {section}{\numberline {3}Fit to ADC Output}{8}
+\contentsline {subsection}{\numberline {3.1}Signal Shape}{9}
+\contentsline {subsubsection}{\numberline {3.1.1}Fit function}{10}
+\contentsline {subsection}{\numberline {3.2}Iteration Process}{11}
+\contentsline {subsubsection}{\numberline {3.2.1}Pass 0}{12}
+\contentsline {subsubsection}{\numberline {3.2.2}Pass 1}{13}
+\contentsline {subsubsection}{\numberline {3.2.3}Pass 2}{14}
+\contentsline {subsubsection}{\numberline {3.2.4}Pass 3}{15}
+\contentsline {subsubsection}{\numberline {3.2.5}Pass 4}{16}
+\contentsline {subsubsection}{\numberline {3.2.6}Pass 5}{17}
+\contentsline {subsection}{\numberline {3.3}Comparison of Fits}{18}
+\contentsline {section}{\numberline {4}Light Attenuation}{21}
+\contentsline {subsection}{\numberline {4.1}Strip Number vs Distance}{21}
+\contentsline {subsection}{\numberline {4.2}Fit Function}{21}
+\contentsline {subsection}{\numberline {4.3}Calibration Constants}{22}
+\contentsline {section}{\numberline {5}Calibration Studies}{30}
+\contentsline {subsection}{\numberline {5.1}Optimal ADC Bin Size}{30}
+\contentsline {subsection}{\numberline {5.2}Minimum Statistics}{30}
+\contentsline {section}{\numberline {6}Simulation}{32}
+\contentsline {subsection}{\numberline {6.1}GEMC: Event Generation}{32}
+\contentsline {subsection}{\numberline {6.2}Input: Generation coefficient}{32}
+\contentsline {subsection}{\numberline {6.3}Cuts Applied}{32}
+\contentsline {subsubsection}{\numberline {6.3.1}Multiplicity Cut}{33}
+\contentsline {subsubsection}{\numberline {6.3.2}Valid Pixel Cut}{33}
+\contentsline {subsection}{\numberline {6.4}ADC and Exponential fits}{33}
+\contentsline {subsection}{\numberline {6.5}Attenuation Coeffiecients}{35}
+\contentsline {section}{\numberline {7}Reproducibility}{39}
+\contentsline {section}{\numberline {8}Acceptance}{39}
