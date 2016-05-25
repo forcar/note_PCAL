@@ -28,9 +28,9 @@ to the same PMT, and  is not able to separate five different signals. A UVW view
 \FloatBarrier
 
 \FloatBarrier
-There are 84 u strips, 77 v strips, and 77 w strips in each corresponding layer. The last 30 u strips are grouped into pairs 
-to be readout to one PMT. The first 30 v and w strips are also grouped in pairs within their respective layer. As a consequence 
-there is better spatial resolution at low strip numbers in the u layer and at high numbers in the v and w layers. This pattern 
+There are 84 U strips, 77 V strips, and 77 W strips in each corresponding layer. The last 30 U strips are grouped into pairs 
+to be readout to one PMT. The first 30 V and W strips are also grouped in pairs within their respective layer. As a consequence 
+there is better spatial resolution at low strip numbers in the U layer and at high numbers in the V and W layers. This pattern 
 of scintillators can be seen in Fig.~\ref{fig:geomfig5}.
 
 Strips in each view can be numbered for ease. Lower numbered strips are the smaller strips while higher numbered strips are longer.
@@ -89,5 +89,10 @@ shown in Fig.~\ref{fig:PCAL_overlap}.
 \end{figure}
 \FloatBarrier
 
-One thing
+\section{Data and Simulation}
+The calibration data is collected for the cosmic ray events-\textcolor{red}{Details needed.}
+
+The calibration constants are extracted from generated events as well to check the consistency of the \texttt{C++} code used 
+for the data. A \texttt{JAVA} framework is used in this case. Details about the generation of simulated events and 
+attenuation coefficients' extraction can be found in Section~\ref{Sec:simulation}.
 \clearpage
