@@ -1,5 +1,5 @@
 \section{Light Attenuation}
-Fits are done based on trapezoidal bins corresponding to strip number. 
+Fits are done based on 2-strip pixels corresponding to strip number. 
 The strip number is converted into distance by a process using equations \ref{eq:udist}-\ref{eq:wdist}, 
 equation \ref{eq:s}, and an offset to have the distance quoted to the center of the physical bin. 
 The exccess fiber lengths in theory could be added into the distance, but will only cause a shift in the fit.
@@ -118,9 +118,9 @@ an exponential with an added constant as seen by Equation \ref{eq:expplusconst}.
 \FloatBarrier
 \subsection{Calibration Constants}
 A table of constants can be uploaded to the clas12 database once the fitting procedure is complete.
-To get the calibration constants below, parameter limits were set on equation \ref{eq:expplusconst} 
-for $200.0 < a < 900.0$, $-0.009 < b < -0.0005$, and $0.0 < c < 700.0$, based on qualitative 
-observation on a global fit. On strips where less than five points were available for fitting, either 
+%To get the calibration constants below, parameter limits were set on equation \ref{eq:expplusconst} 
+%for $200.0 < a < 900.0$, $-0.009 < b < -0.0005$, and $0.0 < c < 700.0$, based on qualitative observation on a global fit.
+On strips where less than five points were available for fitting, either 
 a single exponential or a constant term was used for the fitting function. This was done to avoid situations 
 with more parameters than points available. In general the less points available for the fit, the shorter 
 the strip is, allowing for less of a need for a correction. All the fits shown are for Sector One of the PCAL.

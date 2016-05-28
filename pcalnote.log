@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2016.1.16)  25 MAY 2016 10:41
+This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2016.1.16)  28 MAY 2016 08:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -603,7 +603,7 @@ Package epstopdf Info: Source file: <./Figures/PMTreadout.eps>
 (epstopdf)                    size: 65090 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/PMTreadout-eps-c
 onverted-to.pdf ./Figures/PMTreadout.eps>
-(epstopdf)             \includegraphics on input line 43.
+(epstopdf)             \includegraphics on input line 44.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/PMTreadout-eps-converted-to.pdf, id=23, 796.9775pt x 597.23125pt>
@@ -611,7 +611,7 @@ File: ./Figures/PMTreadout-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Figures/PMTreadout-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/PMTreadout-eps-converted-to.pdf used on inpu
-t line 43.
+t line 44.
 (pdftex.def)             Requested size: 325.215pt x 243.69992pt.
  [4 <./Figures/Pcal_geom_fig5.png> <./Figures/PMTreadout-eps-converted-to.pdf>]
 
@@ -620,14 +620,14 @@ File: ./Figures/PCAL_pixel_screenshot.png Graphic file (type png)
 
 <use ./Figures/PCAL_pixel_screenshot.png>
 Package pdftex.def Info: ./Figures/PCAL_pixel_screenshot.png used on input line
- 60.
+ 61.
 (pdftex.def)             Requested size: 216.81pt x 158.50269pt.
 
 <./Figures/PCAL_UW_screenshot.png, id=32, 1222.5675pt x 895.345pt>
 File: ./Figures/PCAL_UW_screenshot.png Graphic file (type png)
 
 <use ./Figures/PCAL_UW_screenshot.png>
-Package pdftex.def Info: ./Figures/PCAL_UW_screenshot.png used on input line 66
+Package pdftex.def Info: ./Figures/PCAL_UW_screenshot.png used on input line 67
 .
 (pdftex.def)             Requested size: 216.81pt x 158.77798pt.
 
@@ -635,7 +635,7 @@ Package pdftex.def Info: ./Figures/PCAL_UW_screenshot.png used on input line 66
 File: ./Figures/PCAL_UV_screenshot.png Graphic file (type png)
 
 <use ./Figures/PCAL_UV_screenshot.png>
-Package pdftex.def Info: ./Figures/PCAL_UV_screenshot.png used on input line 74
+Package pdftex.def Info: ./Figures/PCAL_UV_screenshot.png used on input line 75
 .
 (pdftex.def)             Requested size: 216.81pt x 158.62523pt.
 
@@ -643,7 +643,7 @@ Package pdftex.def Info: ./Figures/PCAL_UV_screenshot.png used on input line 74
 File: ./Figures/PCAL_WU_screenshot.png Graphic file (type png)
 
 <use ./Figures/PCAL_WU_screenshot.png>
-Package pdftex.def Info: ./Figures/PCAL_WU_screenshot.png used on input line 82
+Package pdftex.def Info: ./Figures/PCAL_WU_screenshot.png used on input line 83
 .
 (pdftex.def)             Requested size: 216.81pt x 158.01024pt.
  [5 <./Figures/PCAL_pixel_screenshot.png> <./Figures/PCAL_UW_screenshot.png> <.
@@ -653,7 +653,7 @@ sCuts.tex
 File: ./Figures/dalitz.jpg Graphic file (type jpg)
 
 <use ./Figures/dalitz.jpg>
-Package pdftex.def Info: ./Figures/dalitz.jpg used on input line 66.
+Package pdftex.def Info: ./Figures/dalitz.jpg used on input line 68.
 (pdftex.def)             Requested size: 303.90501pt x 216.81pt.
 
 
@@ -665,21 +665,21 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: ./Figures/unphysical.jpg Graphic file (type jpg)
 
 <use ./Figures/unphysical.jpg>
-Package pdftex.def Info: ./Figures/unphysical.jpg used on input line 83.
+Package pdftex.def Info: ./Figures/unphysical.jpg used on input line 85.
 (pdftex.def)             Requested size: 219.41275pt x 186.00084pt.
 
 <./Figures/pixelmap.jpg, id=47, 569.12625pt x 482.80376pt>
 File: ./Figures/pixelmap.jpg Graphic file (type jpg)
 
 <use ./Figures/pixelmap.jpg>
-Package pdftex.def Info: ./Figures/pixelmap.jpg used on input line 90.
+Package pdftex.def Info: ./Figures/pixelmap.jpg used on input line 92.
 (pdftex.def)             Requested size: 219.41275pt x 186.13419pt.
 
 <./Figures/occupationnum.png, id=48, 358.82056pt x 144.90135pt>
 File: ./Figures/occupationnum.png Graphic file (type png)
 
 <use ./Figures/occupationnum.png>
-Package pdftex.def Info: ./Figures/occupationnum.png used on input line 100.
+Package pdftex.def Info: ./Figures/occupationnum.png used on input line 102.
 (pdftex.def)             Requested size: 433.62pt x 175.11006pt.
 
 
@@ -696,7 +696,7 @@ erted-to.pdf>
 (epstopdf)                    size: 10313 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/trapezoidUWinter
 section-eps-converted-to.pdf ./Figures/trapezoidUWintersection.eps>
-(epstopdf)             \includegraphics on input line 22.
+(epstopdf)             \includegraphics on input line 23.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/trapezoidUWintersection-eps-converted-to.pdf, id=53, 796.9775pt x 59
@@ -705,14 +705,14 @@ File: ./Figures/trapezoidUWintersection-eps-converted-to.pdf Graphic file (type
  pdf)
  <use ./Figures/trapezoidUWintersection-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/trapezoidUWintersection-eps-converted-to.pdf
- used on input line 22.
+ used on input line 23.
 (pdftex.def)             Requested size: 216.81pt x 162.46661pt.
 
 <./Figures/distribution.png, id=54, 741.77126pt x 545.03625pt>
 File: ./Figures/distribution.png Graphic file (type png)
 
 <use ./Figures/distribution.png>
-Package pdftex.def Info: ./Figures/distribution.png used on input line 35.
+Package pdftex.def Info: ./Figures/distribution.png used on input line 36.
 (pdftex.def)             Requested size: 289.07999pt x 212.41359pt.
  [8 <./Figures/occupationnum.png> <./Figures/trapezoidUWintersection-eps-conver
 ted-to.pdf>]
@@ -720,20 +720,20 @@ ted-to.pdf>]
 File: ./Figures/allstrip67.png Graphic file (type png)
 
 <use ./Figures/allstrip67.png>
-Package pdftex.def Info: ./Figures/allstrip67.png used on input line 46.
+Package pdftex.def Info: ./Figures/allstrip67.png used on input line 47.
 (pdftex.def)             Requested size: 433.62pt x 359.61227pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [9 <./Figures/distribution.png>] [10 <./Figures/allstrip67.png>] [11]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 94.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 95.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 94.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 95.
 Package epstopdf Info: Source file: <./Figures/pass0.eps>
 (epstopdf)                    date: 2016-05-02 11:18:45
 (epstopdf)                    size: 77220 bytes
@@ -742,7 +742,7 @@ Package epstopdf Info: Source file: <./Figures/pass0.eps>
 (epstopdf)                    size: 20077 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/pass0-eps-conver
 ted-to.pdf ./Figures/pass0.eps>
-(epstopdf)             \includegraphics on input line 104.
+(epstopdf)             \includegraphics on input line 105.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/pass0-eps-converted-to.pdf, id=76, 569.12625pt x 282.05376pt>
@@ -750,7 +750,7 @@ File: ./Figures/pass0-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Figures/pass0-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/pass0-eps-converted-to.pdf used on input lin
-e 104.
+e 105.
 (pdftex.def)             Requested size: 401.02565pt x 198.7425pt.
 Package epstopdf Info: Source file: <./Figures/atpass0.eps>
 (epstopdf)                    date: 2016-05-02 11:18:45
@@ -760,7 +760,7 @@ Package epstopdf Info: Source file: <./Figures/atpass0.eps>
 (epstopdf)                    size: 31918 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/atpass0-eps-conv
 erted-to.pdf ./Figures/atpass0.eps>
-(epstopdf)             \includegraphics on input line 112.
+(epstopdf)             \includegraphics on input line 113.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/atpass0-eps-converted-to.pdf, id=77, 569.12625pt x 282.05376pt>
@@ -768,7 +768,7 @@ File: ./Figures/atpass0-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Figures/atpass0-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/atpass0-eps-converted-to.pdf used on input l
-ine 112.
+ine 113.
 (pdftex.def)             Requested size: 401.02565pt x 198.7425pt.
  [12
 
@@ -782,7 +782,7 @@ Package epstopdf Info: Source file: <./Figures/pass1.eps>
 (epstopdf)                    size: 18487 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/pass1-eps-conver
 ted-to.pdf ./Figures/pass1.eps>
-(epstopdf)             \includegraphics on input line 137.
+(epstopdf)             \includegraphics on input line 138.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/pass1-eps-converted-to.pdf, id=95, 569.12625pt x 282.05376pt>
@@ -790,7 +790,7 @@ File: ./Figures/pass1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Figures/pass1-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/pass1-eps-converted-to.pdf used on input lin
-e 137.
+e 138.
 (pdftex.def)             Requested size: 401.02565pt x 198.7425pt.
 Package epstopdf Info: Source file: <./Figures/atpass1.eps>
 (epstopdf)                    date: 2016-05-02 11:18:45
@@ -800,7 +800,7 @@ Package epstopdf Info: Source file: <./Figures/atpass1.eps>
 (epstopdf)                    size: 32232 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/atpass1-eps-conv
 erted-to.pdf ./Figures/atpass1.eps>
-(epstopdf)             \includegraphics on input line 145.
+(epstopdf)             \includegraphics on input line 146.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/atpass1-eps-converted-to.pdf, id=96, 569.12625pt x 282.05376pt>
@@ -808,7 +808,7 @@ File: ./Figures/atpass1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Figures/atpass1-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/atpass1-eps-converted-to.pdf used on input l
-ine 145.
+ine 146.
 (pdftex.def)             Requested size: 401.02565pt x 198.7425pt.
  [13
 
@@ -822,7 +822,7 @@ Package epstopdf Info: Source file: <./Figures/pass2.eps>
 (epstopdf)                    size: 17207 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/pass2-eps-conver
 ted-to.pdf ./Figures/pass2.eps>
-(epstopdf)             \includegraphics on input line 172.
+(epstopdf)             \includegraphics on input line 173.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/pass2-eps-converted-to.pdf, id=115, 569.12625pt x 282.05376pt>
@@ -830,7 +830,7 @@ File: ./Figures/pass2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Figures/pass2-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/pass2-eps-converted-to.pdf used on input lin
-e 172.
+e 173.
 (pdftex.def)             Requested size: 401.02565pt x 198.7425pt.
 Package epstopdf Info: Source file: <./Figures/atpass2.eps>
 (epstopdf)                    date: 2016-05-02 11:18:45
@@ -840,7 +840,7 @@ Package epstopdf Info: Source file: <./Figures/atpass2.eps>
 (epstopdf)                    size: 31446 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/atpass2-eps-conv
 erted-to.pdf ./Figures/atpass2.eps>
-(epstopdf)             \includegraphics on input line 180.
+(epstopdf)             \includegraphics on input line 181.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/atpass2-eps-converted-to.pdf, id=116, 569.12625pt x 282.05376pt>
@@ -848,7 +848,7 @@ File: ./Figures/atpass2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Figures/atpass2-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/atpass2-eps-converted-to.pdf used on input l
-ine 180.
+ine 181.
 (pdftex.def)             Requested size: 401.02565pt x 198.7425pt.
  [14
 
@@ -862,7 +862,7 @@ Package epstopdf Info: Source file: <./Figures/pass3.eps>
 (epstopdf)                    size: 17834 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/pass3-eps-conver
 ted-to.pdf ./Figures/pass3.eps>
-(epstopdf)             \includegraphics on input line 206.
+(epstopdf)             \includegraphics on input line 207.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/pass3-eps-converted-to.pdf, id=134, 569.12625pt x 282.05376pt>
@@ -870,7 +870,7 @@ File: ./Figures/pass3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Figures/pass3-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/pass3-eps-converted-to.pdf used on input lin
-e 206.
+e 207.
 (pdftex.def)             Requested size: 401.02565pt x 198.7425pt.
 Package epstopdf Info: Source file: <./Figures/atpass3.eps>
 (epstopdf)                    date: 2016-05-02 11:18:45
@@ -880,7 +880,7 @@ Package epstopdf Info: Source file: <./Figures/atpass3.eps>
 (epstopdf)                    size: 31722 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/atpass3-eps-conv
 erted-to.pdf ./Figures/atpass3.eps>
-(epstopdf)             \includegraphics on input line 214.
+(epstopdf)             \includegraphics on input line 215.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/atpass3-eps-converted-to.pdf, id=135, 569.12625pt x 282.05376pt>
@@ -888,7 +888,7 @@ File: ./Figures/atpass3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Figures/atpass3-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/atpass3-eps-converted-to.pdf used on input l
-ine 214.
+ine 215.
 (pdftex.def)             Requested size: 401.02565pt x 198.7425pt.
  [15
 
@@ -902,7 +902,7 @@ Package epstopdf Info: Source file: <./Figures/pass4.eps>
 (epstopdf)                    size: 18170 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/pass4-eps-conver
 ted-to.pdf ./Figures/pass4.eps>
-(epstopdf)             \includegraphics on input line 239.
+(epstopdf)             \includegraphics on input line 240.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/pass4-eps-converted-to.pdf, id=153, 569.12625pt x 282.05376pt>
@@ -910,7 +910,7 @@ File: ./Figures/pass4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Figures/pass4-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/pass4-eps-converted-to.pdf used on input lin
-e 239.
+e 240.
 (pdftex.def)             Requested size: 401.02565pt x 198.7425pt.
 Package epstopdf Info: Source file: <./Figures/atpass4.eps>
 (epstopdf)                    date: 2016-05-02 11:18:45
@@ -920,7 +920,7 @@ Package epstopdf Info: Source file: <./Figures/atpass4.eps>
 (epstopdf)                    size: 31826 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/atpass4-eps-conv
 erted-to.pdf ./Figures/atpass4.eps>
-(epstopdf)             \includegraphics on input line 246.
+(epstopdf)             \includegraphics on input line 247.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/atpass4-eps-converted-to.pdf, id=154, 569.12625pt x 282.05376pt>
@@ -928,7 +928,7 @@ File: ./Figures/atpass4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Figures/atpass4-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/atpass4-eps-converted-to.pdf used on input l
-ine 246.
+ine 247.
 (pdftex.def)             Requested size: 401.02565pt x 198.7425pt.
  [16
 
@@ -942,7 +942,7 @@ Package epstopdf Info: Source file: <./Figures/pass5.eps>
 (epstopdf)                    size: 18363 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/pass5-eps-conver
 ted-to.pdf ./Figures/pass5.eps>
-(epstopdf)             \includegraphics on input line 273.
+(epstopdf)             \includegraphics on input line 274.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/pass5-eps-converted-to.pdf, id=172, 569.12625pt x 282.05376pt>
@@ -950,7 +950,7 @@ File: ./Figures/pass5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Figures/pass5-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/pass5-eps-converted-to.pdf used on input lin
-e 273.
+e 274.
 (pdftex.def)             Requested size: 401.02565pt x 198.7425pt.
 Package epstopdf Info: Source file: <./Figures/atpass5.eps>
 (epstopdf)                    date: 2016-05-02 11:18:45
@@ -960,7 +960,7 @@ Package epstopdf Info: Source file: <./Figures/atpass5.eps>
 (epstopdf)                    size: 31745 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/atpass5-eps-conv
 erted-to.pdf ./Figures/atpass5.eps>
-(epstopdf)             \includegraphics on input line 281.
+(epstopdf)             \includegraphics on input line 282.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/atpass5-eps-converted-to.pdf, id=173, 569.12625pt x 282.05376pt>
@@ -968,7 +968,7 @@ File: ./Figures/atpass5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Figures/atpass5-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/atpass5-eps-converted-to.pdf used on input l
-ine 281.
+ine 282.
 (pdftex.def)             Requested size: 401.02565pt x 198.7425pt.
 Package epstopdf Info: Source file: <./Figures/nocutsIsum.eps>
 (epstopdf)                    date: 2016-05-02 11:18:45
@@ -979,7 +979,7 @@ Package epstopdf Info: Source file: <./Figures/nocutsIsum.eps>
 (epstopdf)                    size: 10892 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/nocutsIsum-eps-c
 onverted-to.pdf ./Figures/nocutsIsum.eps>
-(epstopdf)             \includegraphics on input line 295.
+(epstopdf)             \includegraphics on input line 296.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/nocutsIsum-eps-converted-to.pdf, id=174, 569.12625pt x 344.28625pt>
@@ -987,7 +987,7 @@ File: ./Figures/nocutsIsum-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./Figures/nocutsIsum-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/nocutsIsum-eps-converted-to.pdf used on inpu
-t line 295.
+t line 296.
 (pdftex.def)             Requested size: 149.6003pt x 90.49994pt.
 Package epstopdf Info: Source file: <./Figures/3sigcutIsum.eps>
 (epstopdf)                    date: 2016-05-02 11:18:44
@@ -998,17 +998,17 @@ Package epstopdf Info: Source file: <./Figures/3sigcutIsum.eps>
 (epstopdf)                    size: 10866 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/3sigcutIsum-eps-
 converted-to.pdf ./Figures/3sigcutIsum.eps>
-(epstopdf)             \includegraphics on input line 302.
+(epstopdf)             \includegraphics on input line 303.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/3sigcutIsum-eps-converted-to.pdf, id=175, 569.12625pt x 344.28625pt>
 File: ./Figures/3sigcutIsum-eps-converted-to.pdf Graphic file (type pdf)
 <use ./Figures/3sigcutIsum-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/3sigcutIsum-eps-converted-to.pdf used on inp
-ut line 302.
+ut line 303.
 (pdftex.def)             Requested size: 149.6003pt x 90.49994pt.
 
-Underfull \hbox (badness 1742) in paragraph at lines 303--303
+Underfull \hbox (badness 1742) in paragraph at lines 304--304
 []\OT1/cmr/m/n/9 (b) |Sum of all ini-tial in-ten-si-ties.
  []
 
@@ -1021,17 +1021,17 @@ Package epstopdf Info: Source file: <./Figures/allcutsIsum.eps>
 (epstopdf)                    size: 8774 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/allcutsIsum-eps-
 converted-to.pdf ./Figures/allcutsIsum.eps>
-(epstopdf)             \includegraphics on input line 309.
+(epstopdf)             \includegraphics on input line 310.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/allcutsIsum-eps-converted-to.pdf, id=176, 569.12625pt x 344.28625pt>
 File: ./Figures/allcutsIsum-eps-converted-to.pdf Graphic file (type pdf)
 <use ./Figures/allcutsIsum-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/allcutsIsum-eps-converted-to.pdf used on inp
-ut line 309.
+ut line 310.
 (pdftex.def)             Requested size: 149.6003pt x 90.49994pt.
 
-Underfull \hbox (badness 2020) in paragraph at lines 310--310
+Underfull \hbox (badness 2020) in paragraph at lines 311--311
 []\OT1/cmr/m/n/9 (c) |Sum of all ini-tial in-ten-si-ties.
  []
 
@@ -1051,7 +1051,7 @@ pdf>
 (epstopdf)                    size: 121799 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/w61sigfitpass0-e
 ps-converted-to.pdf ./Figures/w61sigfitpass0.eps>
-(epstopdf)             \includegraphics on input line 328.
+(epstopdf)             \includegraphics on input line 329.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/w61sigfitpass0-eps-converted-to.pdf, id=195, 429.605pt x 739.76375pt
@@ -1059,7 +1059,7 @@ Package epstopdf Info: Output file is already uptodate.
 File: ./Figures/w61sigfitpass0-eps-converted-to.pdf Graphic file (type pdf)
  <use ./Figures/w61sigfitpass0-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/w61sigfitpass0-eps-converted-to.pdf used on 
-input line 328.
+input line 329.
 (pdftex.def)             Requested size: 335.75917pt x 578.16476pt.
 
 
@@ -1074,7 +1074,7 @@ pdf>
 (epstopdf)                    size: 100320 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Figures/w61sigfitpass5-e
 ps-converted-to.pdf ./Figures/w61sigfitpass5.eps>
-(epstopdf)             \includegraphics on input line 335.
+(epstopdf)             \includegraphics on input line 336.
 Package epstopdf Info: Output file is already uptodate.
 
 <./Figures/w61sigfitpass5-eps-converted-to.pdf, id=196, 429.605pt x 739.76375pt
@@ -1082,7 +1082,7 @@ Package epstopdf Info: Output file is already uptodate.
 File: ./Figures/w61sigfitpass5-eps-converted-to.pdf Graphic file (type pdf)
  <use ./Figures/w61sigfitpass5-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figures/w61sigfitpass5-eps-converted-to.pdf used on 
-input line 335.
+input line 336.
 (pdftex.def)             Requested size: 335.75917pt x 578.16476pt.
 
 
@@ -1341,63 +1341,63 @@ Overfull \hbox (7.22742pt too wide) in paragraph at lines 20--22
 File: ./Figures/adcU67_02.png Graphic file (type png)
 
 <use ./Figures/adcU67_02.png>
-Package pdftex.def Info: ./Figures/adcU67_02.png used on input line 65.
+Package pdftex.def Info: ./Figures/adcU67_02.png used on input line 68.
 (pdftex.def)             Requested size: 149.6003pt x 111.23367pt.
 
 <./Figures/adcU67_03.png, id=372, 624.3325pt x 457.71pt>
 File: ./Figures/adcU67_03.png Graphic file (type png)
 
 <use ./Figures/adcU67_03.png>
-Package pdftex.def Info: ./Figures/adcU67_03.png used on input line 72.
+Package pdftex.def Info: ./Figures/adcU67_03.png used on input line 75.
 (pdftex.def)             Requested size: 149.6003pt x 109.67105pt.
 
 <./Figures/adcU67_04.png, id=373, 622.325pt x 459.7175pt>
 File: ./Figures/adcU67_04.png Graphic file (type png)
 
 <use ./Figures/adcU67_04.png>
-Package pdftex.def Info: ./Figures/adcU67_04.png used on input line 79.
+Package pdftex.def Info: ./Figures/adcU67_04.png used on input line 82.
 (pdftex.def)             Requested size: 149.6003pt x 110.50981pt.
 
 <./Figures/adcU67_05.png, id=374, 620.3175pt x 456.70625pt>
 File: ./Figures/adcU67_05.png Graphic file (type png)
 
 <use ./Figures/adcU67_05.png>
-Package pdftex.def Info: ./Figures/adcU67_05.png used on input line 86.
+Package pdftex.def Info: ./Figures/adcU67_05.png used on input line 89.
 (pdftex.def)             Requested size: 149.6003pt x 110.14136pt.
 
 <./Figures/adcU67_06.png, id=375, 622.325pt x 455.7025pt>
 File: ./Figures/adcU67_06.png Graphic file (type png)
 
 <use ./Figures/adcU67_06.png>
-Package pdftex.def Info: ./Figures/adcU67_06.png used on input line 93.
+Package pdftex.def Info: ./Figures/adcU67_06.png used on input line 96.
 (pdftex.def)             Requested size: 149.6003pt x 109.54466pt.
 
 <./Figures/adcU67_07.png, id=376, 622.325pt x 456.70625pt>
 File: ./Figures/adcU67_07.png Graphic file (type png)
 
 <use ./Figures/adcU67_07.png>
-Package pdftex.def Info: ./Figures/adcU67_07.png used on input line 100.
+Package pdftex.def Info: ./Figures/adcU67_07.png used on input line 103.
 (pdftex.def)             Requested size: 149.6003pt x 109.78595pt.
 
 <./Figures/adcU67_08.png, id=377, 624.3325pt x 455.7025pt>
 File: ./Figures/adcU67_08.png Graphic file (type png)
 
 <use ./Figures/adcU67_08.png>
-Package pdftex.def Info: ./Figures/adcU67_08.png used on input line 107.
+Package pdftex.def Info: ./Figures/adcU67_08.png used on input line 110.
 (pdftex.def)             Requested size: 149.6003pt x 109.19003pt.
 
 <./Figures/adcU67_09.png, id=378, 621.32124pt x 455.7025pt>
 File: ./Figures/adcU67_09.png Graphic file (type png)
 
 <use ./Figures/adcU67_09.png>
-Package pdftex.def Info: ./Figures/adcU67_09.png used on input line 114.
+Package pdftex.def Info: ./Figures/adcU67_09.png used on input line 117.
 (pdftex.def)             Requested size: 149.6003pt x 109.71849pt.
 
 <./Figures/adcU67_10.png, id=379, 621.32124pt x 452.69125pt>
 File: ./Figures/adcU67_10.png Graphic file (type png)
 
 <use ./Figures/adcU67_10.png>
-Package pdftex.def Info: ./Figures/adcU67_10.png used on input line 121.
+Package pdftex.def Info: ./Figures/adcU67_10.png used on input line 124.
 (pdftex.def)             Requested size: 149.6003pt x 108.99348pt.
 
 
@@ -1407,105 +1407,105 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: ./Figures/adcU67_11.png Graphic file (type png)
 
 <use ./Figures/adcU67_11.png>
-Package pdftex.def Info: ./Figures/adcU67_11.png used on input line 134.
+Package pdftex.def Info: ./Figures/adcU67_11.png used on input line 137.
 (pdftex.def)             Requested size: 149.6003pt x 110.38344pt.
 
 <./Figures/adcU67_12.png, id=381, 619.31375pt x 455.7025pt>
 File: ./Figures/adcU67_12.png Graphic file (type png)
 
 <use ./Figures/adcU67_12.png>
-Package pdftex.def Info: ./Figures/adcU67_12.png used on input line 141.
+Package pdftex.def Info: ./Figures/adcU67_12.png used on input line 144.
 (pdftex.def)             Requested size: 149.6003pt x 110.08008pt.
 
 <./Figures/adcU67_13.png, id=382, 623.32875pt x 452.69125pt>
 File: ./Figures/adcU67_13.png Graphic file (type png)
 
 <use ./Figures/adcU67_13.png>
-Package pdftex.def Info: ./Figures/adcU67_13.png used on input line 148.
+Package pdftex.def Info: ./Figures/adcU67_13.png used on input line 151.
 (pdftex.def)             Requested size: 149.6003pt x 108.64812pt.
 
 <./Figures/adcU67_14.png, id=383, 622.325pt x 453.695pt>
 File: ./Figures/adcU67_14.png Graphic file (type png)
 
 <use ./Figures/adcU67_14.png>
-Package pdftex.def Info: ./Figures/adcU67_14.png used on input line 155.
+Package pdftex.def Info: ./Figures/adcU67_14.png used on input line 158.
 (pdftex.def)             Requested size: 149.6003pt x 109.06209pt.
 
 <./Figures/adcU67_15.png, id=384, 617.30624pt x 455.7025pt>
 File: ./Figures/adcU67_15.png Graphic file (type png)
 
 <use ./Figures/adcU67_15.png>
-Package pdftex.def Info: ./Figures/adcU67_15.png used on input line 162.
+Package pdftex.def Info: ./Figures/adcU67_15.png used on input line 165.
 (pdftex.def)             Requested size: 149.6003pt x 110.43471pt.
 
 <./Figures/adcU67_16.png, id=385, 621.32124pt x 453.695pt>
 File: ./Figures/adcU67_16.png Graphic file (type png)
 
 <use ./Figures/adcU67_16.png>
-Package pdftex.def Info: ./Figures/adcU67_16.png used on input line 169.
+Package pdftex.def Info: ./Figures/adcU67_16.png used on input line 172.
 (pdftex.def)             Requested size: 149.6003pt x 109.23515pt.
 
 <./Figures/adcU67_17.png, id=386, 621.32124pt x 455.7025pt>
 File: ./Figures/adcU67_17.png Graphic file (type png)
 
 <use ./Figures/adcU67_17.png>
-Package pdftex.def Info: ./Figures/adcU67_17.png used on input line 176.
+Package pdftex.def Info: ./Figures/adcU67_17.png used on input line 179.
 (pdftex.def)             Requested size: 149.6003pt x 109.71849pt.
 
 <./Figures/adcU67_18.png, id=387, 624.3325pt x 452.69125pt>
 File: ./Figures/adcU67_18.png Graphic file (type png)
 
 <use ./Figures/adcU67_18.png>
-Package pdftex.def Info: ./Figures/adcU67_18.png used on input line 183.
+Package pdftex.def Info: ./Figures/adcU67_18.png used on input line 186.
 (pdftex.def)             Requested size: 149.6003pt x 108.46852pt.
 
 <./Figures/adcU67_19.png, id=388, 620.3175pt x 452.69125pt>
 File: ./Figures/adcU67_19.png Graphic file (type png)
 
 <use ./Figures/adcU67_19.png>
-Package pdftex.def Info: ./Figures/adcU67_19.png used on input line 190.
+Package pdftex.def Info: ./Figures/adcU67_19.png used on input line 193.
 (pdftex.def)             Requested size: 149.6003pt x 109.17308pt.
 
 <./Figures/adcU67_20.png, id=389, 618.31pt x 451.6875pt>
 File: ./Figures/adcU67_20.png Graphic file (type png)
 
 <use ./Figures/adcU67_20.png>
-Package pdftex.def Info: ./Figures/adcU67_20.png used on input line 197.
+Package pdftex.def Info: ./Figures/adcU67_20.png used on input line 200.
 (pdftex.def)             Requested size: 149.6003pt x 109.28252pt.
 
 <./Figures/adcU67_21.png, id=390, 622.325pt x 453.695pt>
 File: ./Figures/adcU67_21.png Graphic file (type png)
 
 <use ./Figures/adcU67_21.png>
-Package pdftex.def Info: ./Figures/adcU67_21.png used on input line 204.
+Package pdftex.def Info: ./Figures/adcU67_21.png used on input line 207.
 (pdftex.def)             Requested size: 149.6003pt x 109.06209pt.
 
 <./Figures/adcU67_22.png, id=391, 620.3175pt x 452.69125pt>
 File: ./Figures/adcU67_22.png Graphic file (type png)
 
 <use ./Figures/adcU67_22.png>
-Package pdftex.def Info: ./Figures/adcU67_22.png used on input line 211.
+Package pdftex.def Info: ./Figures/adcU67_22.png used on input line 214.
 (pdftex.def)             Requested size: 149.6003pt x 109.17308pt.
 
 <./Figures/adcU67_23.png, id=392, 621.32124pt x 454.69875pt>
 File: ./Figures/adcU67_23.png Graphic file (type png)
 
 <use ./Figures/adcU67_23.png>
-Package pdftex.def Info: ./Figures/adcU67_23.png used on input line 218.
+Package pdftex.def Info: ./Figures/adcU67_23.png used on input line 221.
 (pdftex.def)             Requested size: 149.6003pt x 109.47682pt.
 
 <./Figures/adcU67_24.png, id=393, 619.31375pt x 451.6875pt>
 File: ./Figures/adcU67_24.png Graphic file (type png)
 
 <use ./Figures/adcU67_24.png>
-Package pdftex.def Info: ./Figures/adcU67_24.png used on input line 225.
+Package pdftex.def Info: ./Figures/adcU67_24.png used on input line 228.
 (pdftex.def)             Requested size: 149.6003pt x 109.11021pt.
 
 <./Figures/adcU67_25.png, id=394, 619.31375pt x 453.695pt>
 File: ./Figures/adcU67_25.png Graphic file (type png)
 
 <use ./Figures/adcU67_25.png>
-Package pdftex.def Info: ./Figures/adcU67_25.png used on input line 232.
+Package pdftex.def Info: ./Figures/adcU67_25.png used on input line 235.
 (pdftex.def)             Requested size: 149.6003pt x 109.59515pt.
 
 
@@ -1515,105 +1515,105 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: ./Figures/adcU67_26.png Graphic file (type png)
 
 <use ./Figures/adcU67_26.png>
-Package pdftex.def Info: ./Figures/adcU67_26.png used on input line 245.
+Package pdftex.def Info: ./Figures/adcU67_26.png used on input line 248.
 (pdftex.def)             Requested size: 149.6003pt x 108.75182pt.
 
 <./Figures/adcU67_27.png, id=396, 622.325pt x 452.69125pt>
 File: ./Figures/adcU67_27.png Graphic file (type png)
 
 <use ./Figures/adcU67_27.png>
-Package pdftex.def Info: ./Figures/adcU67_27.png used on input line 252.
+Package pdftex.def Info: ./Figures/adcU67_27.png used on input line 255.
 (pdftex.def)             Requested size: 149.6003pt x 108.8208pt.
 
 <./Figures/adcU67_28.png, id=397, 622.325pt x 449.68pt>
 File: ./Figures/adcU67_28.png Graphic file (type png)
 
 <use ./Figures/adcU67_28.png>
-Package pdftex.def Info: ./Figures/adcU67_28.png used on input line 259.
+Package pdftex.def Info: ./Figures/adcU67_28.png used on input line 262.
 (pdftex.def)             Requested size: 149.6003pt x 108.09694pt.
 
 <./Figures/adcU67_29.png, id=398, 623.32875pt x 451.6875pt>
 File: ./Figures/adcU67_29.png Graphic file (type png)
 
 <use ./Figures/adcU67_29.png>
-Package pdftex.def Info: ./Figures/adcU67_29.png used on input line 266.
+Package pdftex.def Info: ./Figures/adcU67_29.png used on input line 269.
 (pdftex.def)             Requested size: 149.6003pt x 108.40721pt.
 
 <./Figures/adcU67_30.png, id=399, 619.31375pt x 453.695pt>
 File: ./Figures/adcU67_30.png Graphic file (type png)
 
 <use ./Figures/adcU67_30.png>
-Package pdftex.def Info: ./Figures/adcU67_30.png used on input line 273.
+Package pdftex.def Info: ./Figures/adcU67_30.png used on input line 276.
 (pdftex.def)             Requested size: 149.6003pt x 109.59515pt.
 
 <./Figures/adcU67_31.png, id=400, 620.3175pt x 451.6875pt>
 File: ./Figures/adcU67_31.png Graphic file (type png)
 
 <use ./Figures/adcU67_31.png>
-Package pdftex.def Info: ./Figures/adcU67_31.png used on input line 280.
+Package pdftex.def Info: ./Figures/adcU67_31.png used on input line 283.
 (pdftex.def)             Requested size: 149.6003pt x 108.93102pt.
 
 <./Figures/adcU67_32.png, id=401, 619.31375pt x 452.69125pt>
 File: ./Figures/adcU67_32.png Graphic file (type png)
 
 <use ./Figures/adcU67_32.png>
-Package pdftex.def Info: ./Figures/adcU67_32.png used on input line 287.
+Package pdftex.def Info: ./Figures/adcU67_32.png used on input line 290.
 (pdftex.def)             Requested size: 149.6003pt x 109.35268pt.
 
 <./Figures/adcU67_33.png, id=402, 620.3175pt x 452.69125pt>
 File: ./Figures/adcU67_33.png Graphic file (type png)
 
 <use ./Figures/adcU67_33.png>
-Package pdftex.def Info: ./Figures/adcU67_33.png used on input line 294.
+Package pdftex.def Info: ./Figures/adcU67_33.png used on input line 297.
 (pdftex.def)             Requested size: 149.6003pt x 109.17308pt.
 
 <./Figures/adcU67_34.png, id=403, 618.31pt x 448.67625pt>
 File: ./Figures/adcU67_34.png Graphic file (type png)
 
 <use ./Figures/adcU67_34.png>
-Package pdftex.def Info: ./Figures/adcU67_34.png used on input line 301.
+Package pdftex.def Info: ./Figures/adcU67_34.png used on input line 304.
 (pdftex.def)             Requested size: 149.6003pt x 108.55397pt.
 
 <./Figures/adcU67_35.png, id=404, 621.32124pt x 449.68pt>
 File: ./Figures/adcU67_35.png Graphic file (type png)
 
 <use ./Figures/adcU67_35.png>
-Package pdftex.def Info: ./Figures/adcU67_35.png used on input line 308.
+Package pdftex.def Info: ./Figures/adcU67_35.png used on input line 311.
 (pdftex.def)             Requested size: 149.6003pt x 108.26848pt.
 
 <./Figures/adcU67_36.png, id=405, 620.3175pt x 452.69125pt>
 File: ./Figures/adcU67_36.png Graphic file (type png)
 
 <use ./Figures/adcU67_36.png>
-Package pdftex.def Info: ./Figures/adcU67_36.png used on input line 315.
+Package pdftex.def Info: ./Figures/adcU67_36.png used on input line 318.
 (pdftex.def)             Requested size: 149.6003pt x 109.17308pt.
 
 <./Figures/adcU67_37.png, id=406, 619.31375pt x 450.68375pt>
 File: ./Figures/adcU67_37.png Graphic file (type png)
 
 <use ./Figures/adcU67_37.png>
-Package pdftex.def Info: ./Figures/adcU67_37.png used on input line 322.
+Package pdftex.def Info: ./Figures/adcU67_37.png used on input line 325.
 (pdftex.def)             Requested size: 149.6003pt x 108.86774pt.
 
 <./Figures/adcU67_38.png, id=407, 620.3175pt x 449.68pt>
 File: ./Figures/adcU67_38.png Graphic file (type png)
 
 <use ./Figures/adcU67_38.png>
-Package pdftex.def Info: ./Figures/adcU67_38.png used on input line 329.
+Package pdftex.def Info: ./Figures/adcU67_38.png used on input line 332.
 (pdftex.def)             Requested size: 149.6003pt x 108.44687pt.
 
 <./Figures/adcU67_39.png, id=408, 621.32124pt x 452.69125pt>
 File: ./Figures/adcU67_39.png Graphic file (type png)
 
 <use ./Figures/adcU67_39.png>
-Package pdftex.def Info: ./Figures/adcU67_39.png used on input line 336.
+Package pdftex.def Info: ./Figures/adcU67_39.png used on input line 339.
 (pdftex.def)             Requested size: 149.6003pt x 108.99348pt.
 
 <./Figures/adcU67_40.png, id=409, 619.31375pt x 451.6875pt>
 File: ./Figures/adcU67_40.png Graphic file (type png)
 
 <use ./Figures/adcU67_40.png>
-Package pdftex.def Info: ./Figures/adcU67_40.png used on input line 343.
+Package pdftex.def Info: ./Figures/adcU67_40.png used on input line 346.
 (pdftex.def)             Requested size: 149.6003pt x 109.11021pt.
 
 
@@ -1623,105 +1623,105 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: ./Figures/adcU67_41.png Graphic file (type png)
 
 <use ./Figures/adcU67_41.png>
-Package pdftex.def Info: ./Figures/adcU67_41.png used on input line 356.
+Package pdftex.def Info: ./Figures/adcU67_41.png used on input line 359.
 (pdftex.def)             Requested size: 149.6003pt x 109.03966pt.
 
 <./Figures/adcU67_42.png, id=411, 618.31pt x 452.69125pt>
 File: ./Figures/adcU67_42.png Graphic file (type png)
 
 <use ./Figures/adcU67_42.png>
-Package pdftex.def Info: ./Figures/adcU67_42.png used on input line 363.
+Package pdftex.def Info: ./Figures/adcU67_42.png used on input line 366.
 (pdftex.def)             Requested size: 149.6003pt x 109.52536pt.
 
 <./Figures/adcU67_43.png, id=412, 617.30624pt x 453.695pt>
 File: ./Figures/adcU67_43.png Graphic file (type png)
 
 <use ./Figures/adcU67_43.png>
-Package pdftex.def Info: ./Figures/adcU67_43.png used on input line 370.
+Package pdftex.def Info: ./Figures/adcU67_43.png used on input line 373.
 (pdftex.def)             Requested size: 149.6003pt x 109.94821pt.
 
 <./Figures/adcU67_44.png, id=413, 618.31pt x 451.6875pt>
 File: ./Figures/adcU67_44.png Graphic file (type png)
 
 <use ./Figures/adcU67_44.png>
-Package pdftex.def Info: ./Figures/adcU67_44.png used on input line 377.
+Package pdftex.def Info: ./Figures/adcU67_44.png used on input line 380.
 (pdftex.def)             Requested size: 149.6003pt x 109.28252pt.
 
 <./Figures/adcU67_45.png, id=414, 621.32124pt x 451.6875pt>
 File: ./Figures/adcU67_45.png Graphic file (type png)
 
 <use ./Figures/adcU67_45.png>
-Package pdftex.def Info: ./Figures/adcU67_45.png used on input line 384.
+Package pdftex.def Info: ./Figures/adcU67_45.png used on input line 387.
 (pdftex.def)             Requested size: 149.6003pt x 108.75182pt.
 
 <./Figures/adcU67_46.png, id=415, 619.31375pt x 449.68pt>
 File: ./Figures/adcU67_46.png Graphic file (type png)
 
 <use ./Figures/adcU67_46.png>
-Package pdftex.def Info: ./Figures/adcU67_46.png used on input line 391.
+Package pdftex.def Info: ./Figures/adcU67_46.png used on input line 394.
 (pdftex.def)             Requested size: 149.6003pt x 108.62527pt.
 
 <./Figures/adcU67_47.png, id=416, 617.30624pt x 447.6725pt>
 File: ./Figures/adcU67_47.png Graphic file (type png)
 
 <use ./Figures/adcU67_47.png>
-Package pdftex.def Info: ./Figures/adcU67_47.png used on input line 398.
+Package pdftex.def Info: ./Figures/adcU67_47.png used on input line 401.
 (pdftex.def)             Requested size: 149.6003pt x 108.48872pt.
 
 <./Figures/adcU67_48.png, id=417, 615.29875pt x 451.6875pt>
 File: ./Figures/adcU67_48.png Graphic file (type png)
 
 <use ./Figures/adcU67_48.png>
-Package pdftex.def Info: ./Figures/adcU67_48.png used on input line 405.
+Package pdftex.def Info: ./Figures/adcU67_48.png used on input line 408.
 (pdftex.def)             Requested size: 149.6003pt x 109.8201pt.
 
 <./Figures/adcU67_49.png, id=418, 621.32124pt x 452.69125pt>
 File: ./Figures/adcU67_49.png Graphic file (type png)
 
 <use ./Figures/adcU67_49.png>
-Package pdftex.def Info: ./Figures/adcU67_49.png used on input line 412.
+Package pdftex.def Info: ./Figures/adcU67_49.png used on input line 415.
 (pdftex.def)             Requested size: 149.6003pt x 108.99348pt.
 
 <./Figures/adcU67_50.png, id=419, 620.3175pt x 454.69875pt>
 File: ./Figures/adcU67_50.png Graphic file (type png)
 
 <use ./Figures/adcU67_50.png>
-Package pdftex.def Info: ./Figures/adcU67_50.png used on input line 419.
+Package pdftex.def Info: ./Figures/adcU67_50.png used on input line 422.
 (pdftex.def)             Requested size: 149.6003pt x 109.65723pt.
 
 <./Figures/adcU67_51.png, id=420, 616.3025pt x 449.68pt>
 File: ./Figures/adcU67_51.png Graphic file (type png)
 
 <use ./Figures/adcU67_51.png>
-Package pdftex.def Info: ./Figures/adcU67_51.png used on input line 426.
+Package pdftex.def Info: ./Figures/adcU67_51.png used on input line 429.
 (pdftex.def)             Requested size: 149.6003pt x 109.15361pt.
 
 <./Figures/adcU67_52.png, id=421, 616.3025pt x 452.69125pt>
 File: ./Figures/adcU67_52.png Graphic file (type png)
 
 <use ./Figures/adcU67_52.png>
-Package pdftex.def Info: ./Figures/adcU67_52.png used on input line 433.
+Package pdftex.def Info: ./Figures/adcU67_52.png used on input line 436.
 (pdftex.def)             Requested size: 149.6003pt x 109.88455pt.
 
 <./Figures/adcU67_53.png, id=422, 622.325pt x 450.68375pt>
 File: ./Figures/adcU67_53.png Graphic file (type png)
 
 <use ./Figures/adcU67_53.png>
-Package pdftex.def Info: ./Figures/adcU67_53.png used on input line 440.
+Package pdftex.def Info: ./Figures/adcU67_53.png used on input line 443.
 (pdftex.def)             Requested size: 149.6003pt x 108.33823pt.
 
 <./Figures/adcU67_54.png, id=423, 620.3175pt x 451.6875pt>
 File: ./Figures/adcU67_54.png Graphic file (type png)
 
 <use ./Figures/adcU67_54.png>
-Package pdftex.def Info: ./Figures/adcU67_54.png used on input line 447.
+Package pdftex.def Info: ./Figures/adcU67_54.png used on input line 450.
 (pdftex.def)             Requested size: 149.6003pt x 108.93102pt.
 
 <./Figures/adcU67_55.png, id=424, 621.32124pt x 449.68pt>
 File: ./Figures/adcU67_55.png Graphic file (type png)
 
 <use ./Figures/adcU67_55.png>
-Package pdftex.def Info: ./Figures/adcU67_55.png used on input line 454.
+Package pdftex.def Info: ./Figures/adcU67_55.png used on input line 457.
 (pdftex.def)             Requested size: 149.6003pt x 108.26848pt.
 
 
@@ -1731,49 +1731,49 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: ./Figures/adcU67_56.png Graphic file (type png)
 
 <use ./Figures/adcU67_56.png>
-Package pdftex.def Info: ./Figures/adcU67_56.png used on input line 467.
+Package pdftex.def Info: ./Figures/adcU67_56.png used on input line 470.
 (pdftex.def)             Requested size: 149.6003pt x 108.62527pt.
 
 <./Figures/adcU67_57.png, id=426, 621.32124pt x 454.69875pt>
 File: ./Figures/adcU67_57.png Graphic file (type png)
 
 <use ./Figures/adcU67_57.png>
-Package pdftex.def Info: ./Figures/adcU67_57.png used on input line 474.
+Package pdftex.def Info: ./Figures/adcU67_57.png used on input line 477.
 (pdftex.def)             Requested size: 149.6003pt x 109.47682pt.
 
 <./Figures/adcU67_58.png, id=427, 618.31pt x 451.6875pt>
 File: ./Figures/adcU67_58.png Graphic file (type png)
 
 <use ./Figures/adcU67_58.png>
-Package pdftex.def Info: ./Figures/adcU67_58.png used on input line 481.
+Package pdftex.def Info: ./Figures/adcU67_58.png used on input line 484.
 (pdftex.def)             Requested size: 149.6003pt x 109.28252pt.
 
 <./Figures/adcU67_59.png, id=428, 624.3325pt x 449.68pt>
 File: ./Figures/adcU67_59.png Graphic file (type png)
 
 <use ./Figures/adcU67_59.png>
-Package pdftex.def Info: ./Figures/adcU67_59.png used on input line 488.
+Package pdftex.def Info: ./Figures/adcU67_59.png used on input line 491.
 (pdftex.def)             Requested size: 149.6003pt x 107.747pt.
 
 <./Figures/adcU67_60.png, id=429, 620.3175pt x 451.6875pt>
 File: ./Figures/adcU67_60.png Graphic file (type png)
 
 <use ./Figures/adcU67_60.png>
-Package pdftex.def Info: ./Figures/adcU67_60.png used on input line 495.
+Package pdftex.def Info: ./Figures/adcU67_60.png used on input line 498.
 (pdftex.def)             Requested size: 149.6003pt x 108.93102pt.
 
 <./Figures/adcU67_61.png, id=430, 617.30624pt x 448.67625pt>
 File: ./Figures/adcU67_61.png Graphic file (type png)
 
 <use ./Figures/adcU67_61.png>
-Package pdftex.def Info: ./Figures/adcU67_61.png used on input line 502.
+Package pdftex.def Info: ./Figures/adcU67_61.png used on input line 505.
 (pdftex.def)             Requested size: 149.6003pt x 108.73196pt.
 
 <./Figures/adcU67_62.png, id=431, 620.3175pt x 450.68375pt>
 File: ./Figures/adcU67_62.png Graphic file (type png)
 
 <use ./Figures/adcU67_62.png>
-Package pdftex.def Info: ./Figures/adcU67_62.png used on input line 509.
+Package pdftex.def Info: ./Figures/adcU67_62.png used on input line 512.
 (pdftex.def)             Requested size: 149.6003pt x 108.68895pt.
 
 
@@ -1804,70 +1804,70 @@ _61.png> <./Figures/adcU67_62.png>]
 File: ./Figures/expfit_U51.png Graphic file (type png)
 
 <use ./Figures/expfit_U51.png>
-Package pdftex.def Info: ./Figures/expfit_U51.png used on input line 532.
+Package pdftex.def Info: ./Figures/expfit_U51.png used on input line 535.
 (pdftex.def)             Requested size: 219.41275pt x 162.76637pt.
 
 <./Figures/expfit_U52.png, id=452, 613.29124pt x 459.7175pt>
 File: ./Figures/expfit_U52.png Graphic file (type png)
 
 <use ./Figures/expfit_U52.png>
-Package pdftex.def Info: ./Figures/expfit_U52.png used on input line 539.
+Package pdftex.def Info: ./Figures/expfit_U52.png used on input line 542.
 (pdftex.def)             Requested size: 219.41275pt x 164.46701pt.
 
 <./Figures/expfit_U53.png, id=453, 620.3175pt x 454.69875pt>
 File: ./Figures/expfit_U53.png Graphic file (type png)
 
 <use ./Figures/expfit_U53.png>
-Package pdftex.def Info: ./Figures/expfit_U53.png used on input line 546.
+Package pdftex.def Info: ./Figures/expfit_U53.png used on input line 549.
 (pdftex.def)             Requested size: 219.41275pt x 160.82597pt.
 
 <./Figures/expfit_U54.png, id=454, 619.31375pt x 457.71pt>
 File: ./Figures/expfit_U54.png Graphic file (type png)
 
 <use ./Figures/expfit_U54.png>
-Package pdftex.def Info: ./Figures/expfit_U54.png used on input line 553.
+Package pdftex.def Info: ./Figures/expfit_U54.png used on input line 556.
 (pdftex.def)             Requested size: 219.41275pt x 162.15645pt.
 
 <./Figures/expfit_U55.png, id=455, 616.3025pt x 460.72125pt>
 File: ./Figures/expfit_U55.png Graphic file (type png)
 
 <use ./Figures/expfit_U55.png>
-Package pdftex.def Info: ./Figures/expfit_U55.png used on input line 566.
+Package pdftex.def Info: ./Figures/expfit_U55.png used on input line 569.
 (pdftex.def)             Requested size: 219.41275pt x 164.01765pt.
 
 <./Figures/expfit_U56.png, id=456, 616.3025pt x 458.71375pt>
 File: ./Figures/expfit_U56.png Graphic file (type png)
 
 <use ./Figures/expfit_U56.png>
-Package pdftex.def Info: ./Figures/expfit_U56.png used on input line 573.
+Package pdftex.def Info: ./Figures/expfit_U56.png used on input line 576.
 (pdftex.def)             Requested size: 219.41275pt x 163.30298pt.
 
 <./Figures/expfit_U57.png, id=457, 615.29875pt x 459.7175pt>
 File: ./Figures/expfit_U57.png Graphic file (type png)
 
 <use ./Figures/expfit_U57.png>
-Package pdftex.def Info: ./Figures/expfit_U57.png used on input line 580.
+Package pdftex.def Info: ./Figures/expfit_U57.png used on input line 583.
 (pdftex.def)             Requested size: 219.41275pt x 163.92686pt.
 
 <./Figures/expfit_U58.png, id=458, 613.29124pt x 454.69875pt>
 File: ./Figures/expfit_U58.png Graphic file (type png)
 
 <use ./Figures/expfit_U58.png>
-Package pdftex.def Info: ./Figures/expfit_U58.png used on input line 587.
+Package pdftex.def Info: ./Figures/expfit_U58.png used on input line 590.
 (pdftex.def)             Requested size: 219.41275pt x 162.67151pt.
 
 <./Figures/expfit_U59.png, id=459, 614.295pt x 459.7175pt>
 File: ./Figures/expfit_U59.png Graphic file (type png)
 
 <use ./Figures/expfit_U59.png>
-Package pdftex.def Info: ./Figures/expfit_U59.png used on input line 594.
+Package pdftex.def Info: ./Figures/expfit_U59.png used on input line 597.
 (pdftex.def)             Requested size: 219.41275pt x 164.20044pt.
 
 <./Figures/expfit_U67.png, id=460, 627.34375pt x 468.75125pt>
 File: ./Figures/expfit_U67.png Graphic file (type png)
 
 <use ./Figures/expfit_U67.png>
-Package pdftex.def Info: ./Figures/expfit_U67.png used on input line 601.
+Package pdftex.def Info: ./Figures/expfit_U67.png used on input line 604.
 (pdftex.def)             Requested size: 219.41275pt x 163.94379pt.
 
 
@@ -1890,19 +1890,333 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [41
 
-] [42] [43] [44]) (./Reproducibility.tex) (./Bibliography.tex) [45
+] [42] [43] [44]) (./Reproducibility.tex
+Package epstopdf Info: Source file: <./Figures/diffU.eps>
+(epstopdf)                    date: 2016-05-26 11:44:52
+(epstopdf)                    size: 69354 bytes
+(epstopdf)             Output file: <./Figures/diffU-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-26 11:47:49
+(epstopdf)                    size: 116916 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Figures/diffU-eps-conver
+ted-to.pdf ./Figures/diffU.eps>
+(epstopdf)             \includegraphics on input line 17.
+Package epstopdf Info: Output file is already uptodate.
 
-]
-(./pcalnote.aux)
+<./Figures/diffU-eps-converted-to.pdf, id=480, 569.12625pt x 385.44pt>
+File: ./Figures/diffU-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Figures/diffU-eps-converted-to.pdf>
+Package pdftex.def Info: ./Figures/diffU-eps-converted-to.pdf used on input lin
+e 17.
+(pdftex.def)             Requested size: 505.89pt x 342.62883pt.
+
+Overfull \hbox (7.22742pt too wide) in paragraph at lines 17--18
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <./Figures/diffV.eps>
+(epstopdf)                    date: 2016-05-26 11:46:10
+(epstopdf)                    size: 73499 bytes
+(epstopdf)             Output file: <./Figures/diffV-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-26 11:47:52
+(epstopdf)                    size: 144618 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Figures/diffV-eps-conver
+ted-to.pdf ./Figures/diffV.eps>
+(epstopdf)             \includegraphics on input line 24.
+Package epstopdf Info: Output file is already uptodate.
+<./Figures/diffV-eps-converted-to.pdf, id=481, 569.12625pt x 385.44pt>
+File: ./Figures/diffV-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Figures/diffV-eps-converted-to.pdf>
+Package pdftex.def Info: ./Figures/diffV-eps-converted-to.pdf used on input lin
+e 24.
+(pdftex.def)             Requested size: 433.62pt x 293.68437pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <./Figures/diffW.eps>
+(epstopdf)                    date: 2016-05-26 11:45:41
+(epstopdf)                    size: 73457 bytes
+(epstopdf)             Output file: <./Figures/diffW-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-26 11:47:54
+(epstopdf)                    size: 144694 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Figures/diffW-eps-conver
+ted-to.pdf ./Figures/diffW.eps>
+(epstopdf)             \includegraphics on input line 31.
+Package epstopdf Info: Output file is already uptodate.
+<./Figures/diffW-eps-converted-to.pdf, id=482, 569.12625pt x 385.44pt>
+File: ./Figures/diffW-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Figures/diffW-eps-converted-to.pdf>
+Package pdftex.def Info: ./Figures/diffW-eps-converted-to.pdf used on input lin
+e 31.
+(pdftex.def)             Requested size: 433.62pt x 293.68437pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[45
+
+ <./Figures/diffU-eps-converted-to.pdf>] [46 <./Figures/diffV-eps-converted-to.
+pdf> <./Figures/diffW-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <./Figures/diffUMean_6.eps>
+(epstopdf)                    date: 2016-05-19 17:40:36
+(epstopdf)                    size: 32609 bytes
+(epstopdf)             Output file: <./Figures/diffUMean_6-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2016-05-25 11:05:06
+(epstopdf)                    size: 131775 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Figures/diffUMean_6-eps-
+converted-to.pdf ./Figures/diffUMean_6.eps>
+(epstopdf)             \includegraphics on input line 48.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Figures/diffUMean_6-eps-converted-to.pdf, id=516, 569.12625pt x 387.4475pt>
+File: ./Figures/diffUMean_6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Figures/diffUMean_6-eps-converted-to.pdf>
+Package pdftex.def Info: ./Figures/diffUMean_6-eps-converted-to.pdf used on inp
+ut line 48.
+(pdftex.def)             Requested size: 219.41275pt x 149.3717pt.
+Package epstopdf Info: Source file: <./Figures/diffURoot_6.eps>
+(epstopdf)                    date: 2016-05-19 17:40:36
+(epstopdf)                    size: 32606 bytes
+(epstopdf)             Output file: <./Figures/diffURoot_6-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2016-05-25 11:05:08
+(epstopdf)                    size: 133974 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Figures/diffURoot_6-eps-
+converted-to.pdf ./Figures/diffURoot_6.eps>
+(epstopdf)             \includegraphics on input line 55.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Figures/diffURoot_6-eps-converted-to.pdf, id=517, 569.12625pt x 387.4475pt>
+File: ./Figures/diffURoot_6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Figures/diffURoot_6-eps-converted-to.pdf>
+Package pdftex.def Info: ./Figures/diffURoot_6-eps-converted-to.pdf used on inp
+ut line 55.
+(pdftex.def)             Requested size: 219.41275pt x 149.3717pt.
+Package epstopdf Info: Source file: <./Figures/diffUMean_7.eps>
+(epstopdf)                    date: 2016-05-19 17:40:36
+(epstopdf)                    size: 33628 bytes
+(epstopdf)             Output file: <./Figures/diffUMean_7-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2016-05-25 11:05:10
+(epstopdf)                    size: 132988 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Figures/diffUMean_7-eps-
+converted-to.pdf ./Figures/diffUMean_7.eps>
+(epstopdf)             \includegraphics on input line 62.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Figures/diffUMean_7-eps-converted-to.pdf, id=518, 569.12625pt x 387.4475pt>
+File: ./Figures/diffUMean_7-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Figures/diffUMean_7-eps-converted-to.pdf>
+Package pdftex.def Info: ./Figures/diffUMean_7-eps-converted-to.pdf used on inp
+ut line 62.
+(pdftex.def)             Requested size: 219.41275pt x 149.3717pt.
+Package epstopdf Info: Source file: <./Figures/diffURoot_7.eps>
+(epstopdf)                    date: 2016-05-19 17:40:36
+(epstopdf)                    size: 33607 bytes
+(epstopdf)             Output file: <./Figures/diffURoot_7-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2016-05-25 11:05:12
+(epstopdf)                    size: 137368 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Figures/diffURoot_7-eps-
+converted-to.pdf ./Figures/diffURoot_7.eps>
+(epstopdf)             \includegraphics on input line 69.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Figures/diffURoot_7-eps-converted-to.pdf, id=519, 569.12625pt x 387.4475pt>
+File: ./Figures/diffURoot_7-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Figures/diffURoot_7-eps-converted-to.pdf>
+Package pdftex.def Info: ./Figures/diffURoot_7-eps-converted-to.pdf used on inp
+ut line 69.
+(pdftex.def)             Requested size: 219.41275pt x 149.3717pt.
+Package epstopdf Info: Source file: <./Figures/diffVMean_6.eps>
+(epstopdf)                    date: 2016-05-19 17:40:36
+(epstopdf)                    size: 43000 bytes
+(epstopdf)             Output file: <./Figures/diffVMean_6-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2016-05-25 11:35:29
+(epstopdf)                    size: 186944 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Figures/diffVMean_6-eps-
+converted-to.pdf ./Figures/diffVMean_6.eps>
+(epstopdf)             \includegraphics on input line 82.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Figures/diffVMean_6-eps-converted-to.pdf, id=520, 569.12625pt x 387.4475pt>
+File: ./Figures/diffVMean_6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Figures/diffVMean_6-eps-converted-to.pdf>
+Package pdftex.def Info: ./Figures/diffVMean_6-eps-converted-to.pdf used on inp
+ut line 82.
+(pdftex.def)             Requested size: 219.41275pt x 149.3717pt.
+Package epstopdf Info: Source file: <./Figures/diffVRoot_6.eps>
+(epstopdf)                    date: 2016-05-19 17:40:36
+(epstopdf)                    size: 41717 bytes
+(epstopdf)             Output file: <./Figures/diffVRoot_6-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2016-05-25 11:35:31
+(epstopdf)                    size: 175797 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Figures/diffVRoot_6-eps-
+converted-to.pdf ./Figures/diffVRoot_6.eps>
+(epstopdf)             \includegraphics on input line 89.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Figures/diffVRoot_6-eps-converted-to.pdf, id=521, 569.12625pt x 387.4475pt>
+File: ./Figures/diffVRoot_6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Figures/diffVRoot_6-eps-converted-to.pdf>
+Package pdftex.def Info: ./Figures/diffVRoot_6-eps-converted-to.pdf used on inp
+ut line 89.
+(pdftex.def)             Requested size: 219.41275pt x 149.3717pt.
+Package epstopdf Info: Source file: <./Figures/diffVMean_7.eps>
+(epstopdf)                    date: 2016-05-19 17:40:36
+(epstopdf)                    size: 14699 bytes
+(epstopdf)             Output file: <./Figures/diffVMean_7-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2016-05-25 11:35:33
+(epstopdf)                    size: 44631 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Figures/diffVMean_7-eps-
+converted-to.pdf ./Figures/diffVMean_7.eps>
+(epstopdf)             \includegraphics on input line 96.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Figures/diffVMean_7-eps-converted-to.pdf, id=522, 569.12625pt x 387.4475pt>
+File: ./Figures/diffVMean_7-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Figures/diffVMean_7-eps-converted-to.pdf>
+Package pdftex.def Info: ./Figures/diffVMean_7-eps-converted-to.pdf used on inp
+ut line 96.
+(pdftex.def)             Requested size: 219.41275pt x 149.3717pt.
+Package epstopdf Info: Source file: <./Figures/diffVRoot_7.eps>
+(epstopdf)                    date: 2016-05-19 17:40:36
+(epstopdf)                    size: 14977 bytes
+(epstopdf)             Output file: <./Figures/diffVRoot_7-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2016-05-25 11:35:35
+(epstopdf)                    size: 46155 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Figures/diffVRoot_7-eps-
+converted-to.pdf ./Figures/diffVRoot_7.eps>
+(epstopdf)             \includegraphics on input line 103.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Figures/diffVRoot_7-eps-converted-to.pdf, id=523, 569.12625pt x 387.4475pt>
+File: ./Figures/diffVRoot_7-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Figures/diffVRoot_7-eps-converted-to.pdf>
+Package pdftex.def Info: ./Figures/diffVRoot_7-eps-converted-to.pdf used on inp
+ut line 103.
+(pdftex.def)             Requested size: 219.41275pt x 149.3717pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <./Figures/diffWMean_6.eps>
+(epstopdf)                    date: 2016-05-19 17:40:36
+(epstopdf)                    size: 42997 bytes
+(epstopdf)             Output file: <./Figures/diffWMean_6-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2016-05-26 14:26:41
+(epstopdf)                    size: 186963 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Figures/diffWMean_6-eps-
+converted-to.pdf ./Figures/diffWMean_6.eps>
+(epstopdf)             \includegraphics on input line 116.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Figures/diffWMean_6-eps-converted-to.pdf, id=524, 569.12625pt x 387.4475pt>
+File: ./Figures/diffWMean_6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Figures/diffWMean_6-eps-converted-to.pdf>
+Package pdftex.def Info: ./Figures/diffWMean_6-eps-converted-to.pdf used on inp
+ut line 116.
+(pdftex.def)             Requested size: 219.41275pt x 149.3717pt.
+Package epstopdf Info: Source file: <./Figures/diffWRoot_6.eps>
+(epstopdf)                    date: 2016-05-19 17:40:36
+(epstopdf)                    size: 43040 bytes
+(epstopdf)             Output file: <./Figures/diffWRoot_6-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2016-05-26 14:26:43
+(epstopdf)                    size: 181971 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Figures/diffWRoot_6-eps-
+converted-to.pdf ./Figures/diffWRoot_6.eps>
+(epstopdf)             \includegraphics on input line 123.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Figures/diffWRoot_6-eps-converted-to.pdf, id=525, 569.12625pt x 387.4475pt>
+File: ./Figures/diffWRoot_6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Figures/diffWRoot_6-eps-converted-to.pdf>
+Package pdftex.def Info: ./Figures/diffWRoot_6-eps-converted-to.pdf used on inp
+ut line 123.
+(pdftex.def)             Requested size: 219.41275pt x 149.3717pt.
+Package epstopdf Info: Source file: <./Figures/diffWMean_7.eps>
+(epstopdf)                    date: 2016-05-19 17:40:36
+(epstopdf)                    size: 14699 bytes
+(epstopdf)             Output file: <./Figures/diffWMean_7-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2016-05-26 14:26:45
+(epstopdf)                    size: 44653 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Figures/diffWMean_7-eps-
+converted-to.pdf ./Figures/diffWMean_7.eps>
+(epstopdf)             \includegraphics on input line 130.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Figures/diffWMean_7-eps-converted-to.pdf, id=526, 569.12625pt x 387.4475pt>
+File: ./Figures/diffWMean_7-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Figures/diffWMean_7-eps-converted-to.pdf>
+Package pdftex.def Info: ./Figures/diffWMean_7-eps-converted-to.pdf used on inp
+ut line 130.
+(pdftex.def)             Requested size: 219.41275pt x 149.3717pt.
+Package epstopdf Info: Source file: <./Figures/diffWRoot_7.eps>
+(epstopdf)                    date: 2016-05-19 17:40:36
+(epstopdf)                    size: 14977 bytes
+(epstopdf)             Output file: <./Figures/diffWRoot_7-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2016-05-26 14:26:47
+(epstopdf)                    size: 45031 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Figures/diffWRoot_7-eps-
+converted-to.pdf ./Figures/diffWRoot_7.eps>
+(epstopdf)             \includegraphics on input line 137.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Figures/diffWRoot_7-eps-converted-to.pdf, id=527, 569.12625pt x 387.4475pt>
+File: ./Figures/diffWRoot_7-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Figures/diffWRoot_7-eps-converted-to.pdf>
+Package pdftex.def Info: ./Figures/diffWRoot_7-eps-converted-to.pdf used on inp
+ut line 137.
+(pdftex.def)             Requested size: 219.41275pt x 149.3717pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[47
+
+ <./Figures/diffUMean_6-eps-converted-to.pdf> <./Figures/diffURoot_6-eps-conver
+ted-to.pdf> <./Figures/diffUMean_7-eps-converted-to.pdf> <./Figures/diffURoot_7
+-eps-converted-to.pdf>] [48 <./Figures/diffVMean_6-eps-converted-to.pdf> <./Fig
+ures/diffVRoot_6-eps-converted-to.pdf> <./Figures/diffVMean_7-eps-converted-to.
+pdf> <./Figures/diffVRoot_7-eps-converted-to.pdf>] [49 <./Figures/diffWMean_6-e
+ps-converted-to.pdf> <./Figures/diffWRoot_6-eps-converted-to.pdf> <./Figures/di
+ffWMean_7-eps-converted-to.pdf> <./Figures/diffWRoot_7-eps-converted-to.pdf>]) 
+(./Bibliography.tex) [50
+
+] (./pcalnote.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5274 strings out of 493321
- 85778 string characters out of 6140423
- 211062 words of memory out of 5000000
- 8496 multiletter control sequences out of 15000+600000
+ 5380 strings out of 493321
+ 89257 string characters out of 6140423
+ 211377 words of memory out of 5000000
+ 8587 multiletter control sequences out of 15000+600000
  11150 words of font info for 41 fonts, out of 8000000 for 9000
  953 hyphenation exceptions out of 8191
  42i,16n,38p,416b,485s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1927,10 +2241,10 @@ st/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts
 /amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmtt10.pfb>
-Output written on pcalnote.pdf (45 pages, 7662515 bytes).
+Output written on pcalnote.pdf (50 pages, 9467132 bytes).
 PDF statistics:
- 556 PDF objects out of 1000 (max. 8388607)
- 319 compressed objects within 4 object streams
+ 723 PDF objects out of 1000 (max. 8388607)
+ 435 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
- 576 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 651 words of extra memory for PDF output out of 10000 (max. 10000000)
 

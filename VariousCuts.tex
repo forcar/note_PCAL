@@ -1,5 +1,5 @@
 \section{Various Cuts}
-The data used for calibration is from cosmic rays. These cosmic rays hit randomly throughout the PCAL unit. 
+The data used for calibration is from cosmic ray muons. These cosmic rays hit randomly throughout the PCAL unit. 
 The distribution of these events although expected to be uniform, don't guarantee a good hit or detected signal in all three layers.
 Moreover due to the strange pixel shapes and varying sizes different pixels have very different number of counts. 
 An intitial skim was used to cut out events that would prevent a clean signal for calibration purposes.
@@ -9,12 +9,14 @@ Events were removed based on a multiplicity cut and a Dalitz condition.
 
 \FloatBarrier
 \subsection{Multiplicity Cut}
-To ensure a more accurate calibration, a multiplicity cut was applied to collected data. 
+To ensure a more accurate calibration, a multiplicity cut was applied to the collected data. 
 The multiplicity cut removed any event that contained more than three PMT readouts (one in each layer). 
 This reduces the number of cosmic ray events that are not relatively perpendicular to the face of the PCAL unit.
-This is due to the fact that if a cosmic ray trajectory is not perpendicular to the PCAL face, it could clip multiple strips in one orientation (i.e. strip U30 and U31 both recieve a signal). Therefore by restricting the calibration to one perpendicular hit should, more well defined calibration constants could be determined. 
-The accepted range of angles (different from perpendicular to the PCAL face) varies as a function of strip number and is not uniform in all directions.
-This multiplicity cut also removes events where multiple cosmic rays hit the detector within the same time interval, due to possible firing of more PMTs. 
+This is due to the fact that if a cosmic ray trajectory is not perpendicular to the PCAL face, it could clip multiple strips 
+in one orientation (i.e. strip U30 and U31 both recieve a signal). Therefore, by restricting the calibration to one perpendicular
+hit, more well defined calibration constants could be determined. The accepted range of angles (different from perpendicular
+to the PCAL face) varies as a function of strip number and is not uniform in all directions. This multiplicity cut also 
+helps in removing events where multiple cosmic rays hit the detector within the same time interval, due to possible firing of more PMTs. 
 
 
 
@@ -98,12 +100,13 @@ Examples can be seen by Figures \ref{fig:unphysical} and \ref{fig:occupationnum}
 \begin{figure}[h]
 \centering
 \includegraphics[width= 6in, keepaspectratio = true]{occupationnum}
-\caption{The left histogram shows the u and v strip correlation after both the multiplicity and dalitz cuts were applied. The right histogram shows the u and v strip correlation after rejecting all unphysical background.}
+\caption{The left histogram shows the U and V strip correlation after both the multiplicity and dalitz cuts were applied. The right 
+histogram shows the U and V strip correlation after rejecting all known unphysical background.}
 \label{fig:occupationnum}
 \end{figure}
 
 
-The unphysical events can be spotted easily because low u and low v strip numbers should never correlate to just one incident cosmic ray.
+Some of the unphysical events can be spotted easily because low u and low v strip numbers should never correlate to just one incident cosmic ray.
 To investigate in more detail, a program outlining the PCAL detector by strip number was generated.
 This was generated using $\alpha$, $\beta$, number of strips, and strip width ($w$) as defined by Figure \ref{fig:stripwidth}. This outline or pixel mapping can be seen in Figure \ref{fig:pixelmap}.
 This ideal outline of the system was then used in combination with a random number generator to verify which strip numbers could correlate to a physical perpendicular trajectory through the system.

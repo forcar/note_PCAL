@@ -1,18 +1,18 @@
 \section{Simulation}
 \label{Sec:simulation}
 This section deals with extraction of the attenuation coefficients in the \texttt{JAVA} framework. Generation of simulated events is
-discussed at first followed by a brief description of the cuts that are applied. Then the ADC signals are fit for each overlap shape
+discussed, followed by a brief description of the cuts that are applied. Then the ADC signals are fit for each overlap shape
 at a specific distance from the PMT ends to extract the coefficients.
 
 \FloatBarrier
 \subsection{GEMC: Event Generation}
-Events are generated using the GEMC software which uses \textit{gcard} using the command:
+Events are generated using the GEMC software which uses a \textit{gcard}:
 \begin{verbatim}
        gemc gcard/fc-ecpcsc-s2.gcard -RUNNO=12 -N=5000000 -USE_GUI=0
 \end{verbatim}
 The attenuation constants extracted from the data are saved in the database as CCDB constants. These constants 
-(gains normalized to 100) are picked up by the \textit{gcard} with \texttt{RUNN0=12}. When executed with the above command, 5000000 events
-are produced. A snapshot of the code snipped is shown in Fig.~\ref{fig:gcard}. A total of 3 million events are
+(with gains normalized) are picked up by the \textit{gcard} with \texttt{RUNN0=12}. When executed with the above command, 
+5,000,000 events are produced. A snapshot of the code snippet is shown in Fig.~\ref{fig:gcard}. A total of 3 million events are
 generated in module 2 of the PCAL unit in order to do the simulation studies.
 
 \begin{figure}[h]
@@ -31,31 +31,34 @@ coefficients. In the attenuation equation,
 y = A e^{Bx} + C
 \label{eq:attn}
 \end{equation}
-$A$, $B$ and $C$ are the attenuation coefficients and $A+C$ is defined as the gain. The gain was normalized to an \textit{ad hoc}
-factor of 100. The normalized values are fed as the generation input, which, as previously mentioned, are picked up by the
-\textit{gcard}.
+$A$, $B$ and $C$ are the attenuation coefficients and $A+C$ is defined as the gain. The gain was normalized to an \textit{ad hoc} MeV
+muon. The normalized values are fed as the generation input, which, as previously mentioned, are picked up by the
+\textit{gcard}. Here distance is the variable $x$.
 
 \subsection{Cuts Applied}
 Different cuts wherever relevant should be applied to ensure a more accurate calibration. The ADC distributions of the 
-generated events are much clean as they contain no or almost negligible background. However, to be consistent with the method
-used for the calibration of the data, two cuts are made so far. These cuts are discussed below:
+generated events are much cleaner as they contain no background. However, they do contain corner clippers. Therefore, to be consistent 
+with the method used for the calibration of the data, two cuts are made so far: the multiplicity cut and the valid pixel cut.
+These cuts are discussed below:
 
 \subsubsection{Multiplicity Cut}
-Events with exactly one U-hit, one V-hit and one W-hit are only selected. This will also help to reduce/remove events which are not
+Only events with exactly one U-hit, one V-hit and one W-hit are selected. This will also help to reduce/remove events which are not
 relatively perpendicular to the surface of the PCAL module. Events which do not pass this cut are removed from the analysis.
 
 \subsubsection{Valid Pixel Cut}
-\textcolor{red}{Explain about the HitMatrix first.} Another condition required for the events to be selected is that they are
-within the physical shape made by the overlap. The true physical shape, pixel or an overlap shape, is given in the DataBase in the 
-form of a matrix known as the \textit{hit-matrix}. Events that do not fall within these shapes are removed from the analysis. This cut
-is another way of using the Dalitz cut.
+Another condition required for the events to be selected is that they are within the physical shape made by the overlap. 
+The database geometry provides with the coordinates of the vertices of the PCAL module which can be used to construct 
+pixel and overlap shapes. Events with only one hit in these shapes in each view is only taken into account. The shapes 
+which pass this cut are termed as the valid pixel/overlap shapes. Events that do not fall within these shapes are removed 
+from the analysis. In other words, this cut ensures the signal track was physically valid and relatively perpendicular
+with respect to the face of the PCAL module.
 
 \FloatBarrier
 \subsection{ADC signals and fits}
 The events that passed the cuts are binned according to which strip is being calibrated. For example, to calibrate U-strips, bins of W
-cross-strips are used. In most of these bins a Gaussian function describes the ADC distribution pretty well. The centroids for such bins
+cross-strips are used. In most of these bins a Gaussian function describes the ADC distribution reasonably well. The centroids for such bins
 are approximated from the Gaussian fits. However, it is also found that some bins have very small number of counts and the Gaussian
-funtion can not define the distribution very well. To account for that a fit condition is employed. If the number of events is less 
+funtion can not define the distribution accurately. To account for that a fit condition is employed. If the number of events is less 
 than 20, the statitical mean is used as the centroid. The process is repeated for every strip in each view. The ADC distributions and the Gaussian
 fits for U67 are shown in Figures~\ref{fig:adcU1}-\ref{fig:adcU5}.
 \begin{figure}[h]
@@ -520,11 +523,11 @@ are also evaluated. The next section deals with the exponential fits using these
 
 \FloatBarrier
 \subsection{Exponential fits}
-The centroid of each bin is plotted as a function of distance between the bin center to the PMT ends. An exponential funtion is used
-to fit these points. The fit parameters are then extracted which are the required attenuation coefficients. This process is repeated
-for each strip in each view so that a set of 68 U, 62 V and W coefficients are recorded. To illustrate the process, the fits for ten 
-U-strips (U51- U59 and U67) are shown in Figures~\ref{fig:expfit1}-\ref{fig:expfit2}. As a comparison, the CCDB constants are also 
-drawn (red curves).
+The centroid of each bin is plotted as a function of distance between the bin center to the PMT ends. An exponential funtion of the
+form given in Eq.~\ref{eq:attn} is used to fit these points. The fit parameters are then extracted which are the required attenuation
+ coefficients ($A$, $B$ and $C$). This process is repeated for each strip in each view so that a set of 68 U, 62 V and W coefficients 
+ are recorded. To illustrate the process, the fits for ten U-strips (U51- U59 and U67) are shown in Figures~\ref{fig:expfit1}-
+\ref{fig:expfit2}. As a comparison, the CCDB constants are also drawn (red curves).
 \begin{figure}[h]
     \centering
     \begin{subfigure}[h]{0.44\textwidth}
@@ -610,6 +613,8 @@ drawn (red curves).
 
 \FloatBarrier
 \subsection{Attenuation Coeffiecients}
+The attenuation coefficients for all the strips extracted using overlap shapes are listed in Tables~\ref{tab:UattenCSimulation},
+~\ref{tab:VattenCSimulation} and ~\ref{tab:WattenCSimulation} respectively for the U, V and W views.
 \begin{table}[h]
         \centering{}
         \scalebox{0.75}{

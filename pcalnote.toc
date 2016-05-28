@@ -33,4 +33,5 @@
 \contentsline {subsection}{\numberline {7.5}Exponential fits}{39}
 \contentsline {subsection}{\numberline {7.6}Attenuation Coeffiecients}{41}
 \contentsline {section}{\numberline {8}Reproducibility}{45}
-\contentsline {section}{\numberline {9}Acceptance}{45}
+\contentsline {subsection}{\numberline {8.1}Without Iteration}{45}
+\contentsline {subsection}{\numberline {8.2}With Iteration}{47}
