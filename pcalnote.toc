@@ -35,3 +35,6 @@
 \contentsline {section}{\numberline {8}Reproducibility}{45}
 \contentsline {subsection}{\numberline {8.1}Without Iteration}{45}
 \contentsline {subsection}{\numberline {8.2}With Iteration}{47}
+\contentsline {section}{\numberline {9}Systematic Studies}{50}
+\contentsline {subsection}{\numberline {9.1}Sector Dependence}{50}
+\contentsline {subsection}{\numberline {9.2}Fitting ADC signal}{50}
